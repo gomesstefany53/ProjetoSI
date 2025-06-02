@@ -7,7 +7,7 @@ A proposta envolveu a criação de uma plataforma digital que facilitasse a gest
 O desenvolvimento deste projeto proporcionou aos alunos uma experiência valiosa de trabalhar com uma demanda real, permitindo o aprendizado prático da aplicação de tecnologias web e o uso de metodologias ágeis para resolver problemas reais.
 
 Você pode conferir o projeto completo, hospedado na plataforma, através do seguinte link:
-[ https://drive.google.com/drive/folders/1_WHa1T8aq7No-5HSGagjt8NFA9EKyhxe ]
+[ https://drive.google.com/drive/folders/1ctmcj7hf-tMrwQDnWuehb6zuPnpBG_tb?usp=sharing ]
 
 Para mais detalhes desse projeto pode conferir no [ https://dev.azure.com/mikaellyaraujo2010/Projeto%20Filhos%20da%20Corrente ]
 
