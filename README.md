@@ -1,4 +1,4 @@
-# ProjetoSI
+# ProjetoSI - Filhos da Corrente
 
 Este projeto foi desenvolvido pela Turma 15 de Sistemas de Informação, no âmbito do curso de Sistemas Web. O objetivo principal foi atender a uma demanda real da ONG Filhos da Corrente, uma organização dedicada à promoção da capoeira e à inclusão social de jovens através dessa arte marcial.
 
@@ -8,6 +8,8 @@ O desenvolvimento deste projeto proporcionou aos alunos uma experiência valiosa
 
 Você pode conferir o projeto completo, hospedado na plataforma, através do seguinte link:
 [ https://drive.google.com/drive/folders/1_WHa1T8aq7No-5HSGagjt8NFA9EKyhxe ]
+
+Para mais detalhes desse projeto pode conferir no [ https://dev.azure.com/mikaellyaraujo2010/Projeto%20Filhos%20da%20Corrente ]
 
 Além disso, preparamos um vídeo no YouTube detalhando todo o processo de desenvolvimento e os desafios enfrentados ao longo da criação da plataforma. Assista ao vídeo abaixo para entender melhor como o projeto foi realizado e quais tecnologias foram utilizadas:
 [https://youtu.be/lY9D-gd1Wnc]
