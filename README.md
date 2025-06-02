@@ -10,6 +10,6 @@ Você pode conferir o projeto completo, hospedado na plataforma, através do seg
 [https://drive.google.com/drive/folders/1_WHa1T8aq7No-5HSGagjt8NFA9EKyhxe]
 
 Além disso, preparamos um vídeo no YouTube detalhando todo o processo de desenvolvimento e os desafios enfrentados ao longo da criação da plataforma. Assista ao vídeo abaixo para entender melhor como o projeto foi realizado e quais tecnologias foram utilizadas:
-[Link do Vídeo no YouTube]
+[https://youtu.be/lY9D-gd1Wnc]
 
 Agradecemos à ONG Filhos da Corrente pela confiança em nosso trabalho e pela oportunidade de contribuir com uma solução que impacta positivamente a comunidade.
