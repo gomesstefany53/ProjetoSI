@@ -7,7 +7,7 @@ A proposta envolveu a criação de uma plataforma digital que facilitasse a gest
 O desenvolvimento deste projeto proporcionou aos alunos uma experiência valiosa de trabalhar com uma demanda real, permitindo o aprendizado prático da aplicação de tecnologias web e o uso de metodologias ágeis para resolver problemas reais.
 
 Você pode conferir o projeto completo, hospedado na plataforma, através do seguinte link:
-[https://drive.google.com/file/d/1mtqoIUCw5Lyq9kWqU5zxcADSDV91aT3s/view?usp=sharing]
+[ https://drive.google.com/drive/folders/1_WHa1T8aq7No-5HSGagjt8NFA9EKyhxe ]
 
 Além disso, preparamos um vídeo no YouTube detalhando todo o processo de desenvolvimento e os desafios enfrentados ao longo da criação da plataforma. Assista ao vídeo abaixo para entender melhor como o projeto foi realizado e quais tecnologias foram utilizadas:
 [https://youtu.be/lY9D-gd1Wnc]
