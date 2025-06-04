@@ -12,6 +12,6 @@ Você pode conferir o projeto completo, hospedado na plataforma, através do seg
 Para mais detalhes desse projeto pode conferir no [ https://dev.azure.com/mikaellyaraujo2010/Projeto%20Filhos%20da%20Corrente ]
 
 Além disso, preparamos um vídeo no YouTube detalhando todo o processo de desenvolvimento e os desafios enfrentados ao longo da criação da plataforma. Assista ao vídeo abaixo para entender melhor como o projeto foi realizado e quais tecnologias foram utilizadas:
-[https://youtu.be/lY9D-gd1Wnc]
+[ https://youtu.be/rwRzgwblyNg?feature=shared ]
 
 Agradecemos à ONG Filhos da Corrente pela confiança em nosso trabalho e pela oportunidade de contribuir com uma solução que impacta positivamente a comunidade.
